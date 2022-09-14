@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.7b780ceb.css",
-    "main.js": "/react-gh-pages/static/js/main.14557557.js",
-    "static/js/787.071eb048.chunk.js": "/react-gh-pages/static/js/787.071eb048.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.7b780ceb.css.map": "/react-gh-pages/static/css/main.7b780ceb.css.map",
-    "main.14557557.js.map": "/react-gh-pages/static/js/main.14557557.js.map",
-    "787.071eb048.chunk.js.map": "/react-gh-pages/static/js/787.071eb048.chunk.js.map"
+    "main.css": "/beerus266.github.io/static/css/main.7b780ceb.css",
+    "main.js": "/beerus266.github.io/static/js/main.5b8a57aa.js",
+    "static/js/787.071eb048.chunk.js": "/beerus266.github.io/static/js/787.071eb048.chunk.js",
+    "index.html": "/beerus266.github.io/index.html",
+    "main.7b780ceb.css.map": "/beerus266.github.io/static/css/main.7b780ceb.css.map",
+    "main.5b8a57aa.js.map": "/beerus266.github.io/static/js/main.5b8a57aa.js.map",
+    "787.071eb048.chunk.js.map": "/beerus266.github.io/static/js/787.071eb048.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b780ceb.css",
-    "static/js/main.14557557.js"
+    "static/js/main.5b8a57aa.js"
   ]
 }
